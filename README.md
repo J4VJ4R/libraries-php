@@ -18,6 +18,7 @@ En este proyecto se podrá ver un aprendizaje y práctica del manejo de librerí
 ## 📋 Requisitos Previos
 
 Inicialmente se debe instalar Composer, [Composer](https://getcomposer.org/). 
+Seguimos con, [Packagist](https://packagist.org/), la cual es un repositorio de librerías
 
 ## 🛠️ Instalación
 
