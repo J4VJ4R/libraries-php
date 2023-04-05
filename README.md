@@ -1,6 +1,6 @@
-# 🚀 Nombre del Proyecto
+# 🚀 Manejo de librerías en PHP
 
-Breve descripción del proyecto.
+En este proyecto se podrá ver un aprendizaje y práctica del manejo de librerías por medio de Composer
 
 ![Imagen del Proyecto](img/php.jpg)
 
@@ -17,7 +17,7 @@ Breve descripción del proyecto.
 
 ## 📋 Requisitos Previos
 
-Instrucciones para instalar los requisitos previos necesarios para ejecutar el proyecto.
+Inicialmente se debe instalar Composer, [Composer](https://getcomposer.org/). 
 
 ## 🛠️ Instalación
 
