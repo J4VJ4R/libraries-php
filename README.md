@@ -39,6 +39,6 @@ Este proyecto está licenciado bajo la [Nombre de la Licencia](enlace a la licen
 
 Puedes contactarme a través de las siguientes redes sociales:
 
-- [Twitter](enlace a tu perfil de Twitter)
-- [LinkedIn](enlace a tu perfil de LinkedIn)
-- [Instagram](enlace a tu perfil de Instagram)
+- [Twitter](https://twitter.com/jaradeveloper)
+- [LinkedIn](https://www.linkedin.com/in/javier-fullstack/)
+- [Instagram](https://www.instagram.com/ultrasof2/)
