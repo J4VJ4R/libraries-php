@@ -18,15 +18,16 @@ En este proyecto se podrá ver un aprendizaje y práctica del manejo de librerí
 ## 📋 Requisitos Previos
 
 Inicialmente se debe instalar Composer, [Composer](https://getcomposer.org/). 
-Seguimos con, [Packagist](https://packagist.org/), la cual es un repositorio de librerías
+Seguimos con, [Packagist](https://packagist.org/), la cual es un repositorio online de librerías en la cual podemos buscar lo que se requiera.
 
 ## 🛠️ Instalación
 
-Instrucciones para instalar y configurar el proyecto.
+Este proyecto no es para instalar, es creado para tener un medio de práctica para PHP y sus librerías
 
 ## 💻 Uso
 
-Instrucciones para usar el proyecto.
+Su propósito inicial es, crear los diferentes ejemplos y prácticas del curso de PHP y manejo de librerías, las que se verán en este repo son:
+- Html2pdf, se inicia a instalar pero nos dimos cuenta que solo es compatible hasta PHP7.4
 
 ## 🤝 Contribución
 
